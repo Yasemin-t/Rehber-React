@@ -1,0 +1,32 @@
+* {
+  background-color: rgb(168, 146, 227);
+}
+
+.modalbtn {
+  min-height: 5vh;
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+.table {
+  margin-top: 2%;
+}
+.title {
+  text-align: center;
+  margin-top: 5%;
+  color: white;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 450px;
+  margin-top: 2%;
+}
+.input {
+  width: 80%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(160, 226, 234);
+}
